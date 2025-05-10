@@ -67,7 +67,7 @@ variable "ic_pub_vm_A" {
     display_name : "IC_pub_vm-A"
     assign_public_ip : true
     availability_domain : "YpMq-AP-HYDERABAD-1-AD-1"
-    image_ocid : "ocid1.image.oc1.ap-hyderabad-1.anuhsljrvdcx4jacw54ts4jzctsloajhrxk6mvkg223vvlhpyqmdp7sfdmuq"
+    image_ocid : "ocid1.image.oc1.ap-hyderabad-1.aaaaaaaaybgz2ynrs535cmozauaipvsnsqe6gnz3zmxmwalebzd53pvjmpmq"
     shape : {
       name          = "VM.Standard.E2.1.Micro"
       ocpus         = 1
